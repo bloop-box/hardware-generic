@@ -12,7 +12,7 @@ This repository describes the general needs to build the Bloop-Box hardware
 - NFC-Reader
 - Cables
 - RGB-LED
-- some screws depening on your case design 
+- some screws depending on your case design 
 
 ### Raspberry Pi
 
@@ -20,7 +20,7 @@ The best choice is the Raspberry Pi Zero 2 W since it is small form factor and u
 
 Any other Raspberry Pi that supports a 64 bit OS should work as well but keep in mind that you need a much bigger case for those and also might have to use a bigger power supply. 
 
-The Raspberry Pi also needs the standard make header pins to connect the Mainboard to it.
+The Raspberry Pi also needs the standard male header pins to connect the Mainboard to it.
 
 ### NFC-Reader
 
